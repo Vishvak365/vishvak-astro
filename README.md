@@ -1,24 +1,25 @@
-# Astro Starter Kit: Portfolio
+# Daisy Blog
 
-```
-npm init astro -- --template portfolio
-```
+Simple blog template with Astro, Tailwind CSS, daisyUI
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/portfolio)
+[![](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/saadeghi/daisy-blog)
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## Demo
+https://daisy-blog.netlify.app/
 
-## 🧞 Commands
+## Features
+- Dark mode and light mode
+- Markdown content
+- Tailwind CSS and daisyUI included
+- Tailwind CSS Typography plugin included
+- Posts have date, author name, description and image
+- SEO tags, meta tags, and social tags included
+- Posts can be draft (only visible on development environment)
 
-All commands are run from the root of the project, from a terminal:
+## Screenshots
+<img width="1512" alt="Screen Shot 2022-04-09 at 12 23 05 AM" src="https://user-images.githubusercontent.com/7342023/162526541-0aa9ac3b-496e-4604-a6fb-9c2e76451a79.png">
 
-| Command           | Action                                       |
-|:----------------  |:-------------------------------------------- |
-| `npm install`     | Installs dependencies                        |
-| `npm run dev`     | Starts local dev server at `localhost:3000`  |
-| `npm run build`   | Build your production site to `./dist/`      |
-| `npm run preview` | Preview your build locally, before deploying |
+<img width="1512" alt="Screen Shot 2022-04-09 at 12 22 55 AM" src="https://user-images.githubusercontent.com/7342023/162526675-1f304e15-4b23-4bfd-9686-07fb7d81d435.png">
 
-## 👀 Want to learn more?
+<img width="1512" alt="Screen Shot 2022-04-09 at 12 25 04 AM" src="https://user-images.githubusercontent.com/7342023/162526692-b7f82574-495f-47dc-ac4c-cc00b98412c1.png">
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
